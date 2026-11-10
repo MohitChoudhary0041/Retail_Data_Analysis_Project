@@ -1,0 +1,20 @@
+RETAIL DATA ANALYSIS - BUSINESS INSIGHTS
+
+1. Sales by Category:
+Compare the performance of Technology, Furniture, and Office Supplies.
+
+2. Profit by Sub-Category:
+Copiers generate high profit, while Tables show significant losses.
+
+3. Sales by Region:
+Identify which region contributes the most to total sales.
+
+4. Monthly Sales Trend:
+Identify high-sales and low-sales months.
+
+5. Top 10 Products:
+Identify the products contributing the most revenue.
+
+CONCLUSION:
+This analysis helps businesses understand sales performance,
+identify profitable products, and improve business decisions.
